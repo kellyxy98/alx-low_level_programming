@@ -26,7 +26,6 @@ while (h < 58)
 				op2 = (e * 10) + i;
 				if (op1 < op2)
 				{
-
 					putchar(h);
 					putchar(g);
 					putchar(' ');
